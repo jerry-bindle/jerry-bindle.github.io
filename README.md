@@ -1,1 +1,0 @@
-# jerry-bindle.github.io
