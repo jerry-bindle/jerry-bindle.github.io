@@ -40,6 +40,7 @@ img {
 	word-spacing: 3px;
 }
 body {
+	
 	background-color: aqua;
 	
 }
@@ -76,4 +77,21 @@ body {
 .date {
 	text-align: right;
 	display: block;
+}
+
+
+@media (min-width : 600px ){
+	body {
+		max-width: 600px;
+	}
+}
+
+@media (max-width: 600px){
+	body {
+		max-width: 400px;
+	}
+}
+
+
+@media ( min-width : 118px ) and (max-width : 491px ){
 }
