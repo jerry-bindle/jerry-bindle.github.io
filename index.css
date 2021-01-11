@@ -54,7 +54,6 @@ body {
 .titlea {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	font-size: 40px;
-	text-indent: 200px;
 	background-color: antiquewhite;
 	border-left: medium groove #046A49;
 	border-right: thick double #046A49;
@@ -64,11 +63,9 @@ body {
 	word-spacing: 3px;
 	margin-left: 40px;
 	text-shadow: aqua;
-	text-align: left;
-	text-indent: 20px;
+	text-align: center;
 	margin-right: 40px;
 	margin-top: 20px;
-	display: contents;
 	padding: 10px;
 }
 .hi {
