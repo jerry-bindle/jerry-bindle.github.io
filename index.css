@@ -1,10 +1,7 @@
 @charset "utf-8";
 .tweet {
     background-color: antiquewhite;
-    border-left: thin groove #046A49;
-    border-right: thick double #046A49;
-    border-bottom: thick double #046A49;
-    border-top: thick double #046A49;
+    border: thick double #046A49;
     letter-spacing: 4px;
     word-spacing: 9px;
     margin-left: 20px;
